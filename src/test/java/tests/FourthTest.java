@@ -17,6 +17,8 @@ public class FourthTest extends Base {
 
 	@Test
 	public void testFoure() throws IOException, InterruptedException {
+		
+		System.out.println("Mamadou has updated this method");
 		System.out.println("Test foure");
 		
 	  driver = initialiseDriver();
