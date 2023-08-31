@@ -18,6 +18,7 @@ public class FourthTest extends Base {
 	@Test
 	public void testFoure() throws IOException, InterruptedException {
 		
+		System.out.println("Second update");
 		System.out.println("Mamadou has updated this method");
 		System.out.println("Test foure");
 		
