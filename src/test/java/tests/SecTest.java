@@ -16,7 +16,7 @@ public class SecTest extends Base {
 	
 	@Test
 	public void testTwo() throws IOException, InterruptedException {
-		System.out.println("Krish has made some changes");
+		System.out.println("Krish has updated this file");
 		System.out.println("Test two");
 		
 		driver = initialiseDriver();
